@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "hello nova"
+  },
+  {
+    "role": "assistant",
+    "content": "I like how you shared that. hello nova What would make this even better for you? I'm listening."
+  }
+]
